@@ -25,20 +25,3 @@ if (username === '') {
 } else {
   console.log('neteisingas slaptazodis');
 }
-
-// let userName = prompt('Username');
-// let password = prompt('Password');
-// console.log('Username', typeof userName);
-
-// //   if(userName==="admin"){
-// //     return password==="master",
-// //     console.log('Sveiki, admin');
-// //   }else if(userName==='!=admin'){
-// //     return password===userName+"11"
-// //   }
-  
-// if (
-//     (userName=admin&&password == master)||
-//     (userName!=admin&&password+"11")){
-//         return 'Sveiki admin'
-//     } else 
